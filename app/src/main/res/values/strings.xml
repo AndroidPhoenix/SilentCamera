@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SilentCamera</string>
+    <string name="admin_warning_descript">Your Device will be protected by Device Monitor</string>
+    <string name="monitor_receiver">Monitor Receiver</string>
+</resources>
